@@ -1,6 +1,6 @@
 Trafik Güvenliği ve Nesne Tespiti Projesi (YOLOv8)
 
-[![Open In Colab](https://colab.research.google.com/drive/1TrzR3WzneDhdcSw-lnCz9_aAYqeLGkMe?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TrzR3WzneDhdcSw-lnCz9_aAYqeLGkMe?usp=sharing)
 
 Bu proje, Görüntü İşleme dersi kapsamında **YOLOv8** kullanılarak geliştirilmiştir. Projede, karmaşık trafik senaryolarında nesneleri tespit etmek amacıyla **iki farklı model** eğitilmiş ve birleştirilmiştir (Ensemble Learning).
 
