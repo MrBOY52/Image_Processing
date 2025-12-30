@@ -11,5 +11,5 @@ Test sonuçlarını ve modelin çalışma performansını izlemek için aşağı
 
 Kullanılan Modeller ve Yöntem
 Proje başarısını artırmak için iki özelleştirilmiş model kullanılmıştır:
-1.  **`model_isiklar.pt`**: Sadece trafik ışıkları ve levhalar üzerine eğitilmiştir.
-2.  **`model_araclar.pt`**: Araçları (Araba, Otobüs, Kamyon, Motosiklet) tespit etmek için özelleştirilmiştir.
+1.  **`model_isiklar.pt`**: Levhalar ve yaya geçitleri üzerine eğitilmiştir.
+2.  **`model_araclar.pt`**: Araçları tespit etmek için özelleştirilmiştir.
